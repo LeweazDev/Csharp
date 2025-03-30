@@ -1,0 +1,14 @@
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/bin/Debug/net8.0/Chiffre-Mystere
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/bin/Debug/net8.0/Chiffre-Mystere.deps.json
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/bin/Debug/net8.0/Chiffre-Mystere.runtimeconfig.json
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/bin/Debug/net8.0/Chiffre-Mystere.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/bin/Debug/net8.0/Chiffre-Mystere.pdb
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.GeneratedMSBuildEditorConfig.editorconfig
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.AssemblyInfoInputs.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.AssemblyInfo.cs
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.csproj.CoreCompileInputs.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/refint/Chiffre-Mystere.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.pdb
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/Chiffre-Mystere.genruntimeconfig.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/Chiffre-Mystere/obj/Debug/net8.0/ref/Chiffre-Mystere.dll

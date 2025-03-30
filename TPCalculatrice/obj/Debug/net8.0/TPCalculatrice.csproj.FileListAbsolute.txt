@@ -1,0 +1,14 @@
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/bin/Debug/net8.0/TPCalculatrice
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/bin/Debug/net8.0/TPCalculatrice.deps.json
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/bin/Debug/net8.0/TPCalculatrice.runtimeconfig.json
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/bin/Debug/net8.0/TPCalculatrice.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/bin/Debug/net8.0/TPCalculatrice.pdb
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.AssemblyInfoInputs.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.AssemblyInfo.cs
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.csproj.CoreCompileInputs.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/refint/TPCalculatrice.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.pdb
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/TPCalculatrice.genruntimeconfig.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/TPCalculatrice/obj/Debug/net8.0/ref/TPCalculatrice.dll

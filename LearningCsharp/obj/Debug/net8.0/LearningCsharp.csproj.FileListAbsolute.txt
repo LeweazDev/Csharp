@@ -1,0 +1,14 @@
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/bin/Debug/net8.0/LearningCsharp
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/bin/Debug/net8.0/LearningCsharp.deps.json
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/bin/Debug/net8.0/LearningCsharp.runtimeconfig.json
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/bin/Debug/net8.0/LearningCsharp.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/bin/Debug/net8.0/LearningCsharp.pdb
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.AssemblyInfoInputs.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.AssemblyInfo.cs
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.csproj.CoreCompileInputs.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/refint/LearningCsharp.dll
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.pdb
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/LearningCsharp.genruntimeconfig.cache
+/home/mederic/OneDrive/Documents/Laboratory/Projects/Visual Studio/LeweazDev/Csharp/LearningCsharp/obj/Debug/net8.0/ref/LearningCsharp.dll
